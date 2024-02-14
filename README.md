@@ -8,5 +8,5 @@ Extracts all file names in the folder
 
 #### Knowledge
 - Remove repetitive commands that entered in the cmd
-- Improve Nested Loop in batch file
+- Improve Understanding the Nested Loop in batch file
 - Create a script file on the mac
