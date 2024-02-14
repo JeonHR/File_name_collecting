@@ -2,9 +2,11 @@
 Extracts all file names in the folder
 
 #### Purpose
-- 
-<img width="530" alt="image" src="https://github.com/JeonHR/File_name_collecting/assets/140233882/0d0b0c67-e3ec-4444-a810-0b0c5be93825">
-
+- Reduce the same tasks with automated environments
+- Improve work accuracy about missing data
+<img width="531" alt="image" src="https://github.com/JeonHR/File_name_collecting/assets/140233882/faa1c127-4f99-4324-bd4d-d208feeb5f37">
 
 #### Knowledge
-- 
+- Remove repetitive commands that entered in the cmd
+- Improve Nested Loop in batch file
+- Create a script file on the mac
